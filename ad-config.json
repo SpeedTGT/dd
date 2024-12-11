@@ -1,1 +1,89 @@
-
+{
+  "globalConfig": {
+    "adsEnabled": false,
+    "nativeAdsEnabled": false,
+    "interstitialAdsEnabled": false,
+    "rewardedAdsEnabled": false,
+    "appOpenAdsEnabled": false
+  },
+  "adMob": {
+    "enabled": false,
+    "appOpenAds": [
+      {
+        "id": "ca-app-pub-3955523684538222/3069383052",
+        "enabled": false,
+        "network": "ADMOB"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/8250391692",
+        "enabled": false,
+        "network": "ADMOB"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/1756301380",
+        "enabled": false,
+        "network": "ADMOB"
+      }
+    ],
+    "interstitialAds": [
+      {
+        "id": "ca-app-pub-3955523684538222/9743997848",
+        "enabled": false,
+        "network": "ADMOB"
+      }
+    ],
+    "nativeAds": [
+      {
+        "id": "ca-app-pub-3955523684538222/8945921497",
+        "enabled": false,
+        "network": "ADMOB"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/7867248314",
+        "enabled": false,
+        "network": "ADMOB"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/3245477025",
+        "enabled": false,
+        "network": "ADMOB"
+      }
+    ],
+    "rewardedAds": [
+      {
+        "id": "ca-app-pub-3955523684538222/4941702070",
+        "enabled": false,
+        "network": "ADMOB"
+      }
+    ]
+  },
+  "facebook": {
+    "enabled": false,
+    "interstitialAds": [
+      {
+        "id": "438317379162006_438317975828613",
+        "enabled": false,
+        "network": "FACEBOOK"
+      }
+    ],
+    "nativeAds": [
+      {
+        "id": "438317379162006_438318109161933",
+        "enabled": false,
+        "network": "FACEBOOK"
+      }
+    ],
+    "rewardedAds": [
+      {
+        "id": "438317379162006_439991028994641",
+        "enabled": false,
+        "network": "FACEBOOK"
+      }
+    ]
+  },
+  "adRotation": {
+    "preferAdMob": false,
+    "rotationInterval": 300000,
+    "enabled": false
+  }
+}
