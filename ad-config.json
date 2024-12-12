@@ -1,6 +1,6 @@
 {
   "globalConfig": {
-    "adsEnabled": false,
+    "adsEnabled": true,
     "nativeAdsEnabled": true,
     "interstitialAdsEnabled": true,
     "rewardedAdsEnabled": true,
@@ -82,8 +82,8 @@
     ]
   },
   "adRotation": {
-    "preferAdMob": false,
+    "preferAdMob": true,
     "rotationInterval": 300000,
-    "enabled": false
+    "enabled": true
   }
 }
