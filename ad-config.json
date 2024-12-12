@@ -29,7 +29,20 @@
       {
         "id": "ca-app-pub-3955523684538222/9743997848",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 1
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/8250391692",
+        "enabled": true,
+        "network": "ADMOB",
+        "priority": 2
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/1756301380",
+        "enabled": true,
+        "network": "ADMOB",
+        "priority": 3
       }
     ],
     "nativeAds": [
@@ -63,7 +76,20 @@
       {
         "id": "438317379162006_438317975828613",
         "enabled": true,
-        "network": "FACEBOOK"
+        "network": "FACEBOOK",
+        "priority": 1
+      },
+      {
+        "id": "438317379162006_438317975828614",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "priority": 2
+      },
+      {
+        "id": "438317379162006_438317975828615",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "priority": 3
       }
     ],
     "nativeAds": [
@@ -84,6 +110,24 @@
   "adRotation": {
     "preferAdMob": true,
     "rotationInterval": 300000,
-    "enabled": true
+    "enabled": true,
+    "perPageSettings": {
+      "0": {
+        "startWithNetwork": "ADMOB",
+        "preferredNetwork": "ADMOB"
+      },
+      "1": {
+        "startWithNetwork": "FACEBOOK",
+        "preferredNetwork": "FACEBOOK"
+      },
+      "2": {
+        "startWithNetwork": "ADMOB",
+        "preferredNetwork": "ADMOB"
+      },
+      "3": {
+        "startWithNetwork": "FACEBOOK",
+        "preferredNetwork": "FACEBOOK"
+      }
+    }
   }
 }
