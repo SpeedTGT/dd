@@ -10,19 +10,19 @@
     "enabled": true,
     "interstitialAds": [
       {
-        "id": "ca-app-pub-3955523684538222/9743997848",
+        "id": "ca-app-pub-3940256099942544/1033173712",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "HIGH"
       },
       {
-        "id": "ca-app-pub-3955523684538222/8250391692",
+        "id": "ca-app-pub-3940256099942544/1033173712",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "MEDIUM"
       },
       {
-        "id": "ca-app-pub-3955523684538222/1756301380",
+        "id": "ca-app-pub-3940256099942544/1033173712",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "LOW"
@@ -30,19 +30,19 @@
     ],
     "nativeAds": [
       {
-        "id": "ca-app-pub-3955523684538222/8945921497",
+        "id": "ca-app-pub-3940256099942544/2247696110",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "HIGH"
       },
       {
-        "id": "ca-app-pub-3955523684538222/7867248314",
+        "id": "ca-app-pub-3940256099942544/2247696110",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "MEDIUM"
       },
       {
-        "id": "ca-app-pub-3955523684538222/3245477025",
+        "id": "ca-app-pub-3940256099942544/2247696110",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "LOW"
@@ -50,19 +50,19 @@
     ],
     "appOpenAds": [
       {
-        "id": "ca-app-pub-3955523684538222/3069383052",
+        "id": "ca-app-pub-3940256099942544/3419835294",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "HIGH"
       },
       {
-        "id": "ca-app-pub-3955523684538222/8250391692",
+        "id": "ca-app-pub-3940256099942544/3419835294",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "MEDIUM"
       },
       {
-        "id": "ca-app-pub-3955523684538222/1756301380",
+        "id": "ca-app-pub-3940256099942544/3419835294",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "LOW"
@@ -70,7 +70,7 @@
     ],
     "rewardedAds": [
       {
-        "id": "ca-app-pub-3955523684538222/4941702070",
+        "id": "ca-app-pub-3940256099942544/5224354917",
         "enabled": true,
         "network": "ADMOB",
         "eCPM": "HIGH"
