@@ -7,73 +7,53 @@
     "appOpenAdsEnabled": true
   },
   "adMob": {
-    "enabled": true,
+    "enabled": false,
     "appOpenAds": [
       {
         "id": "ca-app-pub-3955523684538222/3069383052",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 1
+        "network": "ADMOB"
       },
       {
         "id": "ca-app-pub-3955523684538222/8250391692",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 2
+        "network": "ADMOB"
       },
       {
         "id": "ca-app-pub-3955523684538222/1756301380",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 3
+        "network": "ADMOB"
       }
     ],
     "interstitialAds": [
       {
         "id": "ca-app-pub-3955523684538222/9743997848",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 1
-      },
-      {
-        "id": "ca-app-pub-3955523684538222/8250391692",
-        "enabled": true,
-        "network": "ADMOB",
-        "priority": 2
-      },
-      {
-        "id": "ca-app-pub-3955523684538222/1756301380",
-        "enabled": true,
-        "network": "ADMOB",
-        "priority": 3
+        "network": "ADMOB"
       }
     ],
     "nativeAds": [
       {
         "id": "ca-app-pub-3955523684538222/8945921497",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 1
+        "network": "ADMOB"
       },
       {
         "id": "ca-app-pub-3955523684538222/7867248314",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 2
+        "network": "ADMOB"
       },
       {
         "id": "ca-app-pub-3955523684538222/3245477025",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 3
+        "network": "ADMOB"
       }
     ],
     "rewardedAds": [
       {
         "id": "ca-app-pub-3955523684538222/4941702070",
         "enabled": true,
-        "network": "ADMOB",
-        "priority": 1
+        "network": "ADMOB"
       }
     ]
   },
@@ -83,66 +63,27 @@
       {
         "id": "438317379162006_438317975828613",
         "enabled": true,
-        "network": "FACEBOOK",
-        "priority": 1
-      },
-      {
-        "id": "438317379162006_438317975828614",
-        "enabled": true,
-        "network": "FACEBOOK",
-        "priority": 2
-      },
-      {
-        "id": "438317379162006_438317975828615",
-        "enabled": true,
-        "network": "FACEBOOK",
-        "priority": 3
+        "network": "FACEBOOK"
       }
     ],
     "nativeAds": [
       {
         "id": "438317379162006_438318109161933",
         "enabled": true,
-        "network": "FACEBOOK",
-        "priority": 1
-      },
-      {
-        "id": "438317379162006_438318109161934",
-        "enabled": true,
-        "network": "FACEBOOK",
-        "priority": 2
+        "network": "FACEBOOK"
       }
     ],
     "rewardedAds": [
       {
         "id": "438317379162006_439991028994641",
         "enabled": true,
-        "network": "FACEBOOK",
-        "priority": 1
+        "network": "FACEBOOK"
       }
     ]
   },
   "adRotation": {
-    "preferAdMob": true,
+    "preferAdMob": false,
     "rotationInterval": 300000,
-    "enabled": true,
-    "perPageSettings": {
-      "0": {
-        "startWithNetwork": "ADMOB",
-        "preferredNetwork": "ADMOB"
-      },
-      "1": {
-        "startWithNetwork": "FACEBOOK",
-        "preferredNetwork": "FACEBOOK"
-      },
-      "2": {
-        "startWithNetwork": "ADMOB",
-        "preferredNetwork": "ADMOB"
-      },
-      "3": {
-        "startWithNetwork": "FACEBOOK",
-        "preferredNetwork": "FACEBOOK"
-      }
-    }
+    "enabled": false
   }
 }
