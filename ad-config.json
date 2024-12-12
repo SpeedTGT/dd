@@ -82,7 +82,7 @@
     ]
   },
   "adRotation": {
-    "preferAdMob": false,
+    "preferAdMob": true,
     "rotationInterval": 300000,
     "enabled": true
   }
