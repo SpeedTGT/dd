@@ -10,48 +10,48 @@
     "enabled": true,
     "appOpenAds": [
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/3069383052",
         "enabled": true,
         "network": "ADMOB"
       },
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/8250391692",
         "enabled": true,
         "network": "ADMOB"
       },
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/1756301380",
         "enabled": true,
         "network": "ADMOB"
       }
     ],
     "interstitialAds": [
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/9743997848",
         "enabled": true,
         "network": "ADMOB"
       }
     ],
     "nativeAds": [
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/8945921497",
         "enabled": true,
         "network": "ADMOB"
       },
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/7867248314",
         "enabled": true,
         "network": "ADMOB"
       },
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/3245477025",
         "enabled": true,
         "network": "ADMOB"
       }
     ],
     "rewardedAds": [
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/4941702070",
         "enabled": true,
         "network": "ADMOB"
       }
