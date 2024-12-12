@@ -1,6 +1,6 @@
 {
   "globalConfig": {
-    "adsEnabled": true,
+    "adsEnabled": false,
     "nativeAdsEnabled": true,
     "interstitialAdsEnabled": true,
     "rewardedAdsEnabled": true,
