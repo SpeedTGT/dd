@@ -8,52 +8,72 @@
   },
   "adMob": {
     "enabled": true,
-    "appOpenAds": [
-      {
-        "id": "ca-app-pub-3940256099942544/3419835294",
-        "enabled": true,
-        "network": "ADMOB"
-      },
-      {
-        "id": "ca-app-pub-3940256099942544/3419835294",
-        "enabled": true,
-        "network": "ADMOB"
-      },
-      {
-        "id": "ca-app-pub-3940256099942544/3419835294",
-        "enabled": true,
-        "network": "ADMOB"
-      }
-    ],
     "interstitialAds": [
       {
-        "id": "ca-app-pub-3940256099942544/1033173712",
+        "id": "ca-app-pub-3955523684538222/9743997848",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "eCPM": "HIGH"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/8250391692",
+        "enabled": true,
+        "network": "ADMOB",
+        "eCPM": "MEDIUM"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/1756301380",
+        "enabled": true,
+        "network": "ADMOB",
+        "eCPM": "LOW"
       }
     ],
     "nativeAds": [
       {
-        "id": "ca-app-pub-3940256099942544/2247696110",
+        "id": "ca-app-pub-3955523684538222/8945921497",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "eCPM": "HIGH"
       },
       {
-        "id": "ca-app-pub-3940256099942544/2247696110",
+        "id": "ca-app-pub-3955523684538222/7867248314",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "eCPM": "MEDIUM"
       },
       {
-        "id": "ca-app-pub-3940256099942544/2247696110",
+        "id": "ca-app-pub-3955523684538222/3245477025",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "eCPM": "LOW"
+      }
+    ],
+    "appOpenAds": [
+      {
+        "id": "ca-app-pub-3955523684538222/3069383052",
+        "enabled": true,
+        "network": "ADMOB",
+        "eCPM": "HIGH"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/8250391692",
+        "enabled": true,
+        "network": "ADMOB",
+        "eCPM": "MEDIUM"
+      },
+      {
+        "id": "ca-app-pub-3955523684538222/1756301380",
+        "enabled": true,
+        "network": "ADMOB",
+        "eCPM": "LOW"
       }
     ],
     "rewardedAds": [
       {
-        "id": "ca-app-pub-3940256099942544/5224354917",
+        "id": "ca-app-pub-3955523684538222/4941702070",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "eCPM": "HIGH"
       }
     ]
   },
@@ -61,23 +81,62 @@
     "enabled": true,
     "interstitialAds": [
       {
-        "id": "438317379162006_438317975828613",
+        "id": "438317379162006_438317975828613_1",
         "enabled": true,
-        "network": "FACEBOOK"
+        "network": "FACEBOOK",
+        "eCPM": "HIGH"
+      },
+      {
+        "id": "438317379162006_438317975828613_2",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "eCPM": "MEDIUM"
+      },
+      {
+        "id": "438317379162006_438317975828613_3",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "eCPM": "LOW"
       }
     ],
     "nativeAds": [
       {
-        "id": "438317379162006_438318109161933",
+        "id": "438317379162006_438318109161933_1",
         "enabled": true,
-        "network": "FACEBOOK"
+        "network": "FACEBOOK",
+        "eCPM": "HIGH"
+      },
+      {
+        "id": "438317379162006_438318109161933_2",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "eCPM": "MEDIUM"
+      },
+      {
+        "id": "438317379162006_438318109161933_3",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "eCPM": "LOW"
       }
     ],
     "rewardedAds": [
       {
-        "id": "438317379162006_439991028994641",
+        "id": "438317379162006_439991028994641_1",
         "enabled": true,
-        "network": "FACEBOOK"
+        "network": "FACEBOOK",
+        "eCPM": "HIGH"
+      },
+      {
+        "id": "438317379162006_439991028994641_2",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "eCPM": "MEDIUM"
+      },
+      {
+        "id": "438317379162006_439991028994641_3",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "eCPM": "LOW"
       }
     ]
   },
