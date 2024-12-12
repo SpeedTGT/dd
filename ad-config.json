@@ -12,17 +12,20 @@
       {
         "id": "ca-app-pub-3955523684538222/3069383052",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 1
       },
       {
         "id": "ca-app-pub-3955523684538222/8250391692",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 2
       },
       {
         "id": "ca-app-pub-3955523684538222/1756301380",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 3
       }
     ],
     "interstitialAds": [
@@ -49,24 +52,28 @@
       {
         "id": "ca-app-pub-3955523684538222/8945921497",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 1
       },
       {
         "id": "ca-app-pub-3955523684538222/7867248314",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 2
       },
       {
         "id": "ca-app-pub-3955523684538222/3245477025",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 3
       }
     ],
     "rewardedAds": [
       {
         "id": "ca-app-pub-3955523684538222/4941702070",
         "enabled": true,
-        "network": "ADMOB"
+        "network": "ADMOB",
+        "priority": 1
       }
     ]
   },
@@ -96,14 +103,22 @@
       {
         "id": "438317379162006_438318109161933",
         "enabled": true,
-        "network": "FACEBOOK"
+        "network": "FACEBOOK",
+        "priority": 1
+      },
+      {
+        "id": "438317379162006_438318109161934",
+        "enabled": true,
+        "network": "FACEBOOK",
+        "priority": 2
       }
     ],
     "rewardedAds": [
       {
         "id": "438317379162006_439991028994641",
         "enabled": true,
-        "network": "FACEBOOK"
+        "network": "FACEBOOK",
+        "priority": 1
       }
     ]
   },
