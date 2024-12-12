@@ -7,7 +7,7 @@
     "appOpenAdsEnabled": true
   },
   "adMob": {
-    "enabled": false,
+    "enabled": true,
     "appOpenAds": [
       {
         "id": "ca-app-pub-3955523684538222/3069383052",
@@ -82,8 +82,8 @@
     ]
   },
   "adRotation": {
-    "preferAdMob": false,
+    "preferAdMob": true,
     "rotationInterval": 300000,
-    "enabled": false
+    "enabled": true
   }
 }
