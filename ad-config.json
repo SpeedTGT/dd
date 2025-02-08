@@ -78,22 +78,22 @@
     ]
   },
   "facebook": {
-    "enabled": true,
+    "enabled": false,
     "interstitialAds": [
       {
-        "id": "438317379162006_438317975828613_1",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "HIGH"
       },
       {
-        "id": "438317379162006_438317975828613_2",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "MEDIUM"
       },
       {
-        "id": "438317379162006_438317975828613_3",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "LOW"
@@ -101,19 +101,19 @@
     ],
     "nativeAds": [
       {
-        "id": "438317379162006_438318109161933_1",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "HIGH"
       },
       {
-        "id": "438317379162006_438318109161933_2",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "MEDIUM"
       },
       {
-        "id": "438317379162006_438318109161933_3",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "LOW"
@@ -121,19 +121,19 @@
     ],
     "rewardedAds": [
       {
-        "id": "438317379162006_439991028994641_1",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "HIGH"
       },
       {
-        "id": "438317379162006_439991028994641_2",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "MEDIUM"
       },
       {
-        "id": "438317379162006_439991028994641_3",
+        "id": "",
         "enabled": true,
         "network": "FACEBOOK",
         "eCPM": "LOW"
