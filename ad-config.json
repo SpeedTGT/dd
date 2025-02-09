@@ -7,7 +7,7 @@
     "appOpenAdsEnabled": true
   },
   "adMob": {
-    "enabled": false,
+    "enabled": true,
     "interstitialAds": [
       {
         "id": "ca-app-pub-3955523684538222/6181950332",
