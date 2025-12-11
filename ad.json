@@ -2,6 +2,6 @@
    "enabled":true,
    "title":"AI Cite",
    "appStoreURL":"https://apps.apple.com/us/app/citation-generator-citeai/id6755911018",
-   "gradientStart": "#007AFF",
-   "gradientEnd": "#5856D6"
+   "gradientStart":"#0EA5E9",
+   "gradientEnd":"#6366F1"
 }
