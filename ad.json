@@ -1,7 +1,7 @@
 {
-  "enabled": true,
-  "title": "MLA",
-  "appStoreURL": "https://apps.apple.com/us/app/cit-mla-citation-generator/id6752398735",
-  "gradientStart": "#007AFF",
-  "gradientEnd": "#5856D6"
-}
+    "enabled": true,
+    "title": "AI Cite",
+    "appStoreURL": "https://apps.apple.com/app/your-ai-app-id",
+    "gradientStart": "#FF6B6B",
+    "gradientEnd": "#4ECDC4"
+  }
