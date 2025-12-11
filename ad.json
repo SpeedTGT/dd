@@ -1,1 +1,7 @@
-
+{
+  "enabled": true,
+  "title": "MLA",
+  "appStoreURL": "https://apps.apple.com/us/app/cit-mla-citation-generator/id6752398735",
+  "gradientStart": "#007AFF",
+  "gradientEnd": "#5856D6"
+}
