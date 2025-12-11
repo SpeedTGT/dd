@@ -1,7 +1,8 @@
 {
    "enabled":true,
    "title":"AI Cite",
+   "badge":"NEW",
    "appStoreURL":"https://apps.apple.com/us/app/citation-generator-citeai/id6755911018",
-   "gradientStart":"#0EA5E9",
+   "gradientStart":"#8B5CF6",
    "gradientEnd":"#6366F1"
 }
